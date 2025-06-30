@@ -1,0 +1,13 @@
+{
+  "name": "projeto-carrinho-de-compras",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "edson desenvolvedor",
+  "license": "ISC",
+  "description": "criar o backend de um carrinho de compras utilizando Node.js e"
+}
